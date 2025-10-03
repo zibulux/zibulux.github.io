@@ -1,7 +1,7 @@
 ---
 title: Radio Theories
 date: 2025-09-29
-categories: [Top, into]
+categories: [4-Radio, 2Rad-Intermediate]
 tags: [radio]
 author: <author_zoog>
 ---
