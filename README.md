@@ -1,43 +1,37 @@
-# Chirpy Starter
+# 👋 Welcome to this self-learning platform! 🚀  
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+## 📖 Intro
+This platform offers a space for **everyone** 🌍 to explore and learn new concepts in **computer science** 💻 and other topics like **nutrition 🥗, training 🏋️, and more 📌**. It also gathers **cheatsheets 📄, tool shortcuts ⌨️, and resources 📚** for easy access.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+## 💡 Concept
+This platform is only the **starting point**:  
+- 📚 It will include **theory** to build strong foundations.  
+- 🛠 Hands-on **labs** to practice and apply knowledge.  
+- 🤝 Opportunities to **share interesting projects** with the community.  
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+## 🎯 Mission
+Our mission is to make **complex concepts simple** ✅ and turn this platform into your **starting point** 🚀 — inspiring curiosity and motivating you to explore deeper 📖✨.  
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+To support your learning journey, we provide:  
+- 🎥 Carefully selected **videos** that we consider the best to explain each concept clearly.  
+- 🏋️ **Virtual and physical exercises** to reinforce knowledge through practice.  
+- 🚀 A space to **strengthen your skills** and grow with confidence.
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+## 🧭 Navigation
+Here’s how to explore the platform:  
 
-## Usage
+- 🏠 **Home**: Find the most recent articles published on the platform.  
+- 📂 **Categories**: Browse concepts organized into folders for easier access.  
+- 🔖 **Tags**: By clicking on a tag, you can quickly filter and find all related content.  
+- 📅 **Archive**: Explore a timeline of all articles along with their creation dates.  
+- ℹ️ **About**: Well… you’re already here!  
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
 
-## Contributing
+## 🚀 **Let's go!**  
+Click on ![**Categories 📂**](https://zibulux.mpmk.app/categories) and choose an article to get started.  
+Happy learning! 🎯
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+---
 
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+✨ Whether you are just getting started or already advanced, this is a place to **learn, practice, and share**. 🌟
