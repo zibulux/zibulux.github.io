@@ -29,7 +29,7 @@ Here’s how to explore the platform:
 
 
 ## 🚀 **Let's go!**  
-Click on [**Categories 📂**](https://zibulux.mpmk.app/categories) and choose an article to get started.  
+Click on [**Categories 📂**](https://zibulux.mpmk.app) and choose an article to get started.  
 Happy learning! 🎯
 
 ---
