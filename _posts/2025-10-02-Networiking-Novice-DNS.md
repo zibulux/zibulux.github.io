@@ -58,5 +58,3 @@ Query DNS servers to get information about domain names.
 - Offers more **detailed output**  
 
 ---
-
-## ❓ Questions?

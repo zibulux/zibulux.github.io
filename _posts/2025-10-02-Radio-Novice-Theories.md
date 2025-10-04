@@ -1,7 +1,7 @@
 ---
 title: Radio Theories
 date: 2025-09-29
-categories: [4-Radio, 1Rad-Novice]
+categories: [3-Radio, 1Rad-Novice]
 tags: [radio]
 author: <author_zoog>
 ---
