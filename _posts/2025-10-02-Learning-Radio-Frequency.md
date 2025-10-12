@@ -1,5 +1,5 @@
 ---
-title: Radio Frequency
+title: Learning Path Radio Frequency
 date: 2025-09-30
 categories: [1-Learning Path, 3Ler-Radio]
 tags: [Learning Path]

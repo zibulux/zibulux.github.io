@@ -1,6 +1,6 @@
 ---
-title: Radio Theories
-date: 2025-09-29
+title: "📡 Radio Theory Demystified — From HF to UHF Explained Simply"
+date: 2025-10-02
 categories: [3-Radio, 1Rad-Novice]
 tags: [radio]
 author: <author_zoog>
