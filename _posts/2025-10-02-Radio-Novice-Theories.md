@@ -4,6 +4,8 @@ date: 2025-09-29
 categories: [3-Radio, 1Rad-Novice]
 tags: [radio]
 author: <author_zoog>
+image:
+   path: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/NVIS_Radiation_Pattern.svg/1024px-NVIS_Radiation_Pattern.svg.png
 ---
 
 # Radio Theory 📻

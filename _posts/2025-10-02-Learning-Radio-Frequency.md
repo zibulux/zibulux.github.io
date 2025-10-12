@@ -1,12 +1,13 @@
 ---
-title: test
+title: Radio Frequency
 date: 2025-09-30
-categories: [1-Learning Path, 6Ler-Productivity]
+categories: [1-Learning Path, 3Ler-Radio]
 tags: [Learning Path]
 author: <author_mpmk>
 ---
 
 ## Novice:
+[Radio Theory]({% post_url 2025-10-02-Radio-Novice-Theories %})
 
 ## Intermediate:
 
