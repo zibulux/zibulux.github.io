@@ -1,7 +1,7 @@
 ---
 title: "🌐 Understanding DNS — The Internet’s Phonebook Explained Simply"
-date: 2025-10-02
-categories: [2-Networking, 1Net-Novice]
+date: 2025-10-12
+categories: [2-Networking, 1Net-Theory]
 tags: [networking, services]
 author: <author_mpmk>
 image:
@@ -14,6 +14,11 @@ Every time you visit a website, your computer needs to know **where that site li
 Instead of remembering numbers like `172.217.160.142`, you type friendly names like `google.com`. DNS (Domain Name System) is the **phonebook of the Internet** — it converts domain names into IP addresses so devices can communicate.
 
 > 💡 Think of DNS like your smartphone contacts: you type “Mom,” and your phone knows her number. DNS works the same way — you type `google.com`, and it finds the right IP address behind it.
+
+**Watch the video 🎬 or continue reading below 👇**
+{% include embed/youtube.html id="UVR9lhUGAyU" %}
+
+Source: Fireship
 
 ---
 
@@ -86,3 +91,5 @@ DNS (Domain Name System) is the **Internet’s phonebook**. It converts human-fr
 **How it works in short:** Browser → Recursive Resolver → Root → TLD → Authoritative Server → Browser. Results are cached along the way to speed up future queries.
 
 **Moral:** Without DNS, you would have to remember countless IP addresses just to browse the web. DNS makes the Internet human-friendly and navigable! 🌐📱
+
+---

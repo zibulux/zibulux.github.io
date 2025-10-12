@@ -6,13 +6,16 @@ tags: [Learning Path, Docker]
 author: <author_mpmk>
 ---
 
-## Novice:
+## Theory:
+1. [🐳 Getting Started with Docker: Key Components and Commands]({% post_url 2025-10-12-Server-Theory-Docker %})
 
-## Intermediate:
 
 ## Advance:
 
 ## Labs:
+1. [🪟 Installing Docker Desktop on Windows — Step by Step]({% post_url 2025-10-12-Server-Labs-Install-Docker-Desktop %})
+2. [🐧 Installing Docker on Linux — The Complete Beginner Guide]({%post_url 2025-10-12-Server-Labs-Install-Docker-Linux %})
+
 
 ## Cheatsheet
 

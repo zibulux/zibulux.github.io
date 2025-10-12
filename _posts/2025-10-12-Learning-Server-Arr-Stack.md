@@ -1,15 +1,15 @@
 ---
 title: Learning Path Arr-Stack
-date: 2025-10-02
+date: 2025-10-12
 categories: [1-Learning Path, 2Ler-Server]
 tags: [Learning Path]
 author: <author_mpmk>
+image:
+    path: /assets/img/server/learning-ARR-Stack.png
 ---
 
-## Novice:
-[🎬 ARR Stack 101 : Understanding the Theory Before You Try It]({% post_url 2025-10-12-Server-Novice-Arr-Stack-Theory %})
-
-## Intermediate:
+## Theory:
+[🎬 ARR Stack 101 : Understanding the Theory Before You Try It]({% post_url 2025-10-12-Server-Theory-Arr-Stack %})
 
 ## Advance:
 

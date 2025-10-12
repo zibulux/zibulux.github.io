@@ -6,9 +6,7 @@ tags: [Learning Path]
 author: <author_mpmk>
 ---
 
-## Novice:
-
-## Intermediate:
+## Theory:
 
 ## Advance:
 

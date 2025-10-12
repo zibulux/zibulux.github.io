@@ -2,7 +2,7 @@
 layout: post
 title: "🎬 ARR Stack 101 : Understanding the Theory Before You Try It"
 date: 2025-10-12
-categories: [3-Server, 1Ser-Novice]
+categories: [3-Server, 1Ser-Theory]
 tags: [Server, Docker, ARR-Stack]
 author: <author_mpmk>
 image:
@@ -142,3 +142,5 @@ Here’s a simple diagram showing how the tools interact:
 
 Building an **ARR Stack** is an awesome way to explore **Docker** 🐳 and understand why it’s so useful in real-world setups.  
 It’s also a fun project that teaches you **automation**, **networking**, and **self-hosting** — while giving you your very own **media hub** at home. 🏡🎉
+
+---

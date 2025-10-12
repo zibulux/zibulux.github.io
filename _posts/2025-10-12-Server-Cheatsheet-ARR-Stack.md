@@ -1,7 +1,7 @@
 ---
 title: “What Does Each ARR Do? 🤔 Your Quick Reference Guide to the ARR Stack”
 date: 2025-10-12
-categories: [3-Server, 5Ser-Cheatsheet]
+categories: [3-Server, 4Ser-Cheatsheet]
 tags: [Server, ARR-Stack, Cheatsheet]
 author: <author_mpmk>
 image:
@@ -87,3 +87,5 @@ Each tool plays a unique role — from downloading to organizing, streaming, and
 5. **Monitors & manages users** (13.Tautulli, 17.Wizarr)
 
 > 💡 The ARR Stack is like having your own personal Netflix — fully automated, completely private, and entirely under your control.
+
+---

@@ -6,10 +6,8 @@ tags: [Learning Path]
 author: <author_mpmk>
 ---
 
-## Novice:
-[Radio Theory]({% post_url 2025-10-02-Radio-Novice-Theories %})
-
-## Intermediate:
+## Theory:
+[Radio Theory]({% post_url 2025-10-12-Radio-Theory-Radio-Theories %})
 
 ## Advance:
 

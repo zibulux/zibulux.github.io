@@ -1,7 +1,7 @@
 ---
 title: "📡 Radio Theory Demystified — From HF to UHF Explained Simply"
-date: 2025-10-02
-categories: [3-Radio, 1Rad-Novice]
+date: 2025-10-12
+categories: [4-Radio, 1Rad-Theory]
 tags: [radio]
 author: <author_zoog>
 image:
@@ -172,7 +172,5 @@ NVIS is a technique that aims the signal almost straight up to the sky, causing 
 - Effective for mountainous or difficult terrain where line-of-sight is blocked
 
 **Typical Use**: Short to medium-range HF communications where BLOS coverage is needed without the large skip zones of traditional HF skywave propagation.
-
----
 
 ---
