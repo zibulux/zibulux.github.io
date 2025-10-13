@@ -36,7 +36,7 @@ Most ARR services run inside **Docker containers** because it makes installation
 With Docker, each service runs in its own isolated environment, so you don’t have to worry about messy dependencies, system conflicts, or complex setups.  
 You can update, remove, or rebuild apps in seconds — perfect for home setups. ⚡  
 
-For more information about Docker, go see **[click here](#)**.
+For more information about Docker, **[click here]({% post_url 2025-10-12-Server-Theory-Docker %})**.
 
 ---
 
