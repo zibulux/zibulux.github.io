@@ -144,3 +144,9 @@ Building an **ARR Stack** is an awesome way to explore **Docker** 🐳 and under
 It’s also a fun project that teaches you **automation**, **networking**, and **self-hosting** — while giving you your very own **media hub** at home. 🏡🎉
 
 ---
+
+## 🚀 Let's Try It!
+
+If you want to try setting up your **own basic ARR stack at home**, here's a simple lab you can check out:
+
+1. [🧱 Basic ARR Stack Docker Compose — Secure, Automated, and Self-Hosted]({% post_url 2025-10-12-Server-Labs-Arr-Stack-basic %})

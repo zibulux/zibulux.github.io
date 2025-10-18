@@ -7,8 +7,7 @@ author: <author_mpmk>
 ---
 
 ## Theory:
-
-[🌐 Understanding DNS — The Internet’s Phonebook Explained Simply]({% post_url 2025-10-12-Networiking-Theory-DNS %})
+- [🌐 Understanding DNS — The Internet’s Phonebook Explained Simply]({% post_url 2025-10-12-Networiking-Theory-DNS %})
 
 ## Advance:
 

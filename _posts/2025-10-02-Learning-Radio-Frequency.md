@@ -7,7 +7,7 @@ author: <author_mpmk>
 ---
 
 ## Theory:
-[Radio Theory]({% post_url 2025-10-12-Radio-Theory-Radio-Theories %})
+- [Radio Theory]({% post_url 2025-10-12-Radio-Theory-Radio-Theories %})
 
 ## Advance:
 
