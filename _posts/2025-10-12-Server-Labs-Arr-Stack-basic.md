@@ -91,7 +91,7 @@ services:
       - /dev/net/tun:/dev/net/tun
     ports:
       - 8001:8000 # Gluetun
-      - 8080:8080 # qbittorrent web interface
+      - 9090:9090 # qbittorrent web interface
       - 6881:6881 # qbittorrent torrent port
       - 9696:9696 # prowlarr
       - 8989:8989 # Sonarr
@@ -110,7 +110,6 @@ services:
       - UPDATER_PERIOD=24h
       - HEALTH_VPN_DURATION_INITIAL=120s
       # IMPORTANT: Add these if Gluetun's internal firewall is active and blocking inbound connections
-      # - FIREWALL_VPN_INPUT_PORTS=8989,7878,9696,8080,6881
     healthcheck:
       test: ping -c 1 www.google.com || exit 1
       interval: 60s
