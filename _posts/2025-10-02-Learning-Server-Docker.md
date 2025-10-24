@@ -8,7 +8,7 @@ author: <author_mpmk>
 
 ## Theory:
 1. [🐳 Getting Started with Docker: Key Components and Commands]({% post_url 2025-10-12-Server-Theory-Docker %})
-
+2. [Docker Basics 🧩 — Your Quick Guide to Essential Commands]({% post_url 2025-10-23-Server-Theory-Docker-CMD %})
 
 ## Advance:
 
