@@ -1,3 +1,5 @@
+# 🛡️ Intro to Tailscale — The Easiest VPN for Homelabbers
+
 **Tailscale** is a modern, zero-config VPN built on top of **WireGuard**.  
 It lets your devices connect to each other privately as if they were all on the same LAN — anywhere in the world.
 
