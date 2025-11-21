@@ -1,3 +1,11 @@
+---
+title: Intro to Tailscale — The Easiest VPN for Homelabbers
+date: 2025-11-20
+categories: [3-Server]
+tags: [Server]
+author: <author_rylan>
+---
+
 # 🛡️ Intro to Tailscale — The Easiest VPN for Homelabbers
 
 **Tailscale** is a modern, zero-config VPN built on top of **WireGuard**.  
