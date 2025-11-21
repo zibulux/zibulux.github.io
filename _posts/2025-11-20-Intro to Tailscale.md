@@ -43,4 +43,3 @@ sudo tailscale up --advertise-exit-node
 sudo tailscale up --advertise-routes=192.168.x.x/24
 ```
 
-3. Tailnet DNS (Custom DNS Servers)
