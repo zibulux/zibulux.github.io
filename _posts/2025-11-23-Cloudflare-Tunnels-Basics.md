@@ -1,17 +1,10 @@
-- Cloudflare Zero Trust
-- Networks > Manage Tunnels > Add a Tunnel
-- Name your tunnel - homelab-tunnel
-- Choose your environment
-	- Docker
-- Copy tunnel token for your docker-compose.yml file (it will be at the end of the provided docker run command)
-
-Docker compose file
-
-
-
-docker compose up -d
-
-You should now see your tunnel HEALTHY on Your Cloudflare Tunnels, or Connectors. Have a look around the Cloudflare menus to see where everything is. It will come in handy later when setting DNS entries for your Jellyfin or Plex server.
+---
+title: Intro to Cloudflare Tunnels — Easy remote access for your self hosted applications.
+date: 2025-11-20
+categories: [3-Server]
+tags: [Server]
+author: <author_rylan>
+---
 
 
 # ☁️ Cloudflare Tunnel for Plex: Minimal Docker Compose Guide
@@ -105,7 +98,3 @@ Use Docker Compose to launch your tunnel service.
     
 
 ---
-
-## Conclusion
-
-Your server is now securely accessible from anywhere in the world via your custom domain. By using the minimal Docker Compose setup with `network_mode: host` and a single command, you've created a direct, encrypted, and highly secure path for your remote traffic. This minimal configuration is fast, reduces complexity, and ensures all external traffic benefits from Cloudflare's security and performance features.
