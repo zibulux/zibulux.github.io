@@ -1,5 +1,5 @@
 ---
-title: Intro to Cloudflare Tunnels — Easy remote access for your self hosted applications.
+title: Cloudflare Tunnels: Minimal Docker Compose Guide
 date: 2025-11-20
 categories: [3-Server]
 tags: [Server]
@@ -7,7 +7,7 @@ author: <author_rylan>
 ---
 
 
-# ☁️ Cloudflare Tunnel for Plex: Minimal Docker Compose Guide
+# ☁️ Cloudflare Tunnels: Minimal Docker Compose Guide
 
 This guide details the simplest way to securely expose your self-hosted docker applications to the internet using a **Cloudflare Tunnel** and **Docker Compose**, ***without needing to open any firewall ports.***
 
@@ -55,7 +55,7 @@ cd ~/cloudflare-tunnel
 touch docker-compose.yml
 ```
 
-Here is a minimal docker compose file to get you started, paste this into your docker-compose.yml file:
+Here is a minimal docker compose file to get you started, paste this into your docker-compose.yml file. Make sure to paste the Cloudflare token you copied earlier into the command statement:
 
 
 ```yml
