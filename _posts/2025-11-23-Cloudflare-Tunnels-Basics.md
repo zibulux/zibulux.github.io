@@ -86,7 +86,7 @@ Use Docker Compose to launch your tunnel service.
 2. Verify Status:
 
     Refresh the Cloudflare Tunnel Dashboard to see if your tunnel is showing "HEALTHY":
-    ![HEALTHY Cloudflare Tunnel](/assets/img/networking/Cloudflare-Tunnel.png)
+    ![HEALTHY Cloudflare Tunnel](/assets/img/server/Cloudflare-Tunnel.png)
 
     
     You can also check the container logs to ensure the tunnel is running and connected successfully:
