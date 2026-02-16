@@ -40,13 +40,15 @@ Open your Command Prompt (search "cmd" in the start menu).
 Copy and run this command to add ADB to your system path:
 
 ```setx PATH "%PATH%;C:\platform-tools```
+
 Close and reopen your Command Prompt, then type adb version to verify.
 
 # 🚀 Installing Maestro
 Now for the main event. Since Windows support is currently manual, we will do a quick "Download & Path" setup.
 
 ## Step 1: Download Maestro
-Download the latest Windows release here: https://github.com/mobile-dev-inc/maestro/releases/latest/download/maestro.zip
+Download the latest Windows release here: 
+[maestro.zip](https://github.com/mobile-dev-inc/maestro/releases/latest/download/maestro.zip)
 
 ## Step 2: Extract
 Extract the downloaded zip file to your user folder.
@@ -54,6 +56,8 @@ Extract the downloaded zip file to your user folder.
 Target Location: C:\Users\YOUR_USERNAME\maestro
 
 (Make sure the bin folder is inside. The path should look like C:\Users\YOUR_USERNAME\maestro\maestro\bin)
+
+Note *** Check to see where your actual download folder is before updating system path
 
 ## Step 3: Update System Path
 We need to tell Windows where to find the maestro command.
@@ -82,7 +86,7 @@ Create File: Create a new file on your desktop called flow.yaml.
 
 ## Write Test: Paste the following code into it:
 
-```YAML
+``` YAML
 appId: com.android.settings
 ---
 - launchApp
