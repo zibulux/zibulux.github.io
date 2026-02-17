@@ -7,14 +7,13 @@ tags: [Server, Proxmox]
 author: <author_rylan>
 ---
 
-## Prerequisites
-bunzip2
 
 1. **Download the OPNsense ISO**
 
-	- https://pkg.opnsense.org/releases/26.1/OPNsense-26.1-vga-amd64.img.bz2
+	- [OPNsense.img.bz2](https://pkg.opnsense.org/releases/26.1/OPNsense-26.1-vga-amd64.img.bz2)
 	
 	- unzip the .bz2 file with ``` bunzip2 OPNsense-26.1-vga-amd64.img.bz2 ```
+    - OR just extract if you're on windows.
 
 2. **Upload the img file to Proxmox.**
 	- You cannot upload `.img` files via the Proxmox web GUI's "ISO Images" upload button (it only accepts `.iso`). Therefore we will use SCP
@@ -22,7 +21,7 @@ bunzip2
 	- Upload the OPNsense-25.x-OpenSSL-dvd-amd64.img file to a directory like /tmp on the Proxmox host.
 
 ```bash
-scp .OPNsense-26.1-vga-amd64.img 10.x.x.x(proxmox-ip):
+scp .OPNsense-26.1-vga-amd64.img root@10.x.x.x(proxmox-ip):
 ```
 ## 3. **Create an empty VM**
 - You can do this in the terminal for simplicity
@@ -35,7 +34,7 @@ qm create 105 --name OPNsense-Router --memory 2048 --net0 virtio,bridge=vmbr0 --
 - Run the import command. Replace 100 with your VM ID, filename with your actual .img filename, and local-lvm with your local storage, (could be local-zfs or just local)
  
 ``` bash 
-qm importdisk 100 OPNsense-dvd-amd64.img local-lvm
+qm importdisk 105 OPNsense-dvd-amd64.img local-lvm
 ```
 
 ## 5. Attach and resize the disk
