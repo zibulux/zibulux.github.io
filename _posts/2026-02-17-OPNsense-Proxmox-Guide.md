@@ -34,7 +34,7 @@ qm create 105 --name OPNsense-Router --memory 2048 --net0 virtio,bridge=vmbr0 --
 - Run the import command. Replace 100 with your VM ID, filename with your actual .img filename, and local-lvm with your local storage, (could be local-zfs or just local)
  
 ``` bash 
-qm importdisk 105 OPNsense-dvd-amd64.img local-lvm
+qm importdisk 105 OPNsense-26.1-vga-amd64.img local-lvm
 ```
 
 ## 5. Attach and resize the disk
