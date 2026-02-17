@@ -9,7 +9,6 @@ author: <author_rylan>
 
 ## Prerequisites
 bunzip2
-wget opnsense
 
 1. **Download the OPNsense ISO**
 
