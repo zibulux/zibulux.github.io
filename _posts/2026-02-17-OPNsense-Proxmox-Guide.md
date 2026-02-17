@@ -24,9 +24,9 @@ author: <author_rylan>
 scp .OPNsense-26.1-vga-amd64.img root@10.x.x.x(proxmox-ip):
 ```
 ## 3. **Create an empty VM**
-- You can do this in the terminal for simplicity
+- You can do this in the Proxmox Node terminal for simplicity
 ```bash
-qm create 105 --name OPNsense-Router --memory 2048 --net0 virtio,bridge=vmbr0 --ostype l26
+qm create 106 --name OPNsense-Router --memory 8000 --cpu cputype=host --net0 virtio,bridge=vmbr0 --ostype l26
 ```
 
 ## 4. **Import the Disk**
@@ -34,7 +34,7 @@ qm create 105 --name OPNsense-Router --memory 2048 --net0 virtio,bridge=vmbr0 --
 - Run the import command. Replace 100 with your VM ID, filename with your actual .img filename, and local-lvm with your local storage, (could be local-zfs or just local)
  
 ``` bash 
-qm importdisk 105 OPNsense-26.1-vga-amd64.img local-lvm
+qm importdisk 106 OPNsense-26.1-vga-amd64.img local-lvm
 ```
 
 ## 5. Attach and resize the disk
